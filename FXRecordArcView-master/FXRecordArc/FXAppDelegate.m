@@ -15,6 +15,7 @@
     // Override point for customization after application launch.
     //master分支
     //develop分支
+    //feature-x分支
     return YES;
 }
 							
